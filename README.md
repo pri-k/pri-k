@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🎓 I'm currently pursuing B.TECH in Electronics and Communication Engineering from NSUT, Delhi
 
-- 🌱 I'm currently learning Web Development and DSA in C++
+- 🌱 I'm currently learning Web Development using ReactJs and DSA in C++
 
 ![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pri-k&show_icons=true&locale=en&theme=transparent)
 
